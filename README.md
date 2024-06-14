@@ -1,6 +1,6 @@
 # Unmasking the Veil 
 
-### [paper](https://openreview.net/forum?id=TYYApLzjaQ) 
+Link to our work : [Paper](https://openreview.net/forum?id=TYYApLzjaQ) 
 
 
 This project is a reproducibility study based on the paper [Ablating Concepts in Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.13516). Our work explores how to remove specific concepts from text-to-image diffusion models, which has significant potential for copyright protection.
@@ -21,7 +21,9 @@ Diffusion-based generative models are trained on vast datasets that frequently i
 
 We have reproduced the results presented by the authors on various ablation tasks, including the removal of specific objects, instances, and memorized images. Additionally, we introduce a new method called **Trademark-Ablation** that effectively removes memorized images more effectively from the training dataset, addressing a limitation of the original work.
 
-We also tested the robustness of the ablated models using Jailbreak Prompts and found that removing any concept from a model leads to a noticeable degradation in image quality for unrelated concepts.
+We further tested the robustness of the ablated models using Jailbreak Prompts.
+
+We also found that removing any concept from a model leads to a noticeable degradation in image quality for unrelated concepts.
 
 ### Instance Ablation 
 
