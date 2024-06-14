@@ -71,4 +71,4 @@ The code to reproduce our results is available [here](method/README.md)
 
 ## Acknowledgements 
 
-We would like to thank the authors of "Ablating Concepts in Text-to-Image Diffusion Models" for open-sourcing their work[code](https://github.com/nupurkmr9/concept-ablation.git).
+We would like to thank the authors of "Ablating Concepts in Text-to-Image Diffusion Models" for open-sourcing their work [code](https://github.com/nupurkmr9/concept-ablation.git).

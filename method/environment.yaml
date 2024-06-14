@@ -1,4 +1,4 @@
-name: ablate
+name: unmasking
 channels:
   - pytorch
   - defaults
@@ -30,3 +30,4 @@ dependencies:
     - wandb
     - -e git+https://github.com/CompVis/taming-transformers.git@master#egg=taming-transformers
     - -e git+https://github.com/openai/CLIP.git@main#egg=clip
+    - clip-score
