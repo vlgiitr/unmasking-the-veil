@@ -2,6 +2,9 @@
 
 Link to our work : [Paper](https://openreview.net/forum?id=TYYApLzjaQ) 
 
+***Unmasking the Veil: An Investigation into Concept Ablation for Privacy and Copyright Protection in Images***<br>
+Shivank Garg,Manyana Tiwari<br>
+VLG,IITR<br>
 
 This project is a reproducibility study based on the paper [Ablating Concepts in Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.13516). Our work explores how to remove specific concepts from text-to-image diffusion models, which has significant potential for copyright protection.
 
